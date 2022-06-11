@@ -4,8 +4,8 @@ calculator project made with javascript. This project was made for requirements 
 
 Name: I Kadek Arya Budi Artana
 
-Reg. No : 149173029100-548
+Reg. No : 1492522629101-288
 
 C-Class
 
-try https://arya-budiartana.github.io/scient-calculator-with-js/
+try https://arya-budiartana.github.io/science-calculator-with-js/
